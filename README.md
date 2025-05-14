@@ -25,3 +25,7 @@ Saya lulusan dari Universitas Dian Nuswantoro Angkatan 2019, Fakultas Ilmu Kompu
 [![](https://visitcount.itsvg.in/api?id=OxidiLily&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<img src="https://raw.githubusercontent.com/OxidiLily/OxidiLily/output/snake.svg" alt="Snake animation" />
+
+###
